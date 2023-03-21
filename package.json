@@ -1,6 +1,7 @@
 {
   "name": "shamsi-date-now",
-  "version": "1.2.1",
+  "version": "1.2.2",
+  "repository": {"type": "git","url": "https://github.com/mohammadmahdihasani/shamsi-date-now"},
   "description": "Get current date to solar date",
   "main": "date.service.js",
   "dependencies": {
