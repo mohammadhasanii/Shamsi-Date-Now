@@ -1,9 +1,10 @@
 
 # shamsi-date-now
 
-
-
 This package is for displaying current date in solar date (Shamsi date)
+
+![Logo](https://c.tadst.com/gfx/1200x630/tadlogo-2021.png?1)
+
 
 ## Installation
 
