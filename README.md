@@ -1,5 +1,5 @@
 
-# shamsi-date-now
+# Shamsi-Date-Now
 
 This package is for displaying current date in solar date (Shamsi date)
 
